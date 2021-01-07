@@ -7,7 +7,7 @@ PyTorch re-implementation of some models in the paper [A comprehensive study on 
 
 0. Download our prepared [Casia-B data](https://drive.google.com/file/d/1YfmCKYoYJvxvOITdp4qxOi5ak0MTZJLD/view?usp=sharing).
 
-0. Install the [fastai](https://github.com/fastai/fastai) library.
+0. Install the [fastai](https://github.com/fastai/fastai) library.  pip install fastai==1.0.61
 
 0. Clone this repo.
 
